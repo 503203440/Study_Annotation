@@ -53,7 +53,7 @@ public class Test_Main {
 
 					Object object = f.get(user);
 
-					System.out.println("是String类型：" + object);
+					System.out.println("字段的值为====" + object);
 				}
 
 			}
